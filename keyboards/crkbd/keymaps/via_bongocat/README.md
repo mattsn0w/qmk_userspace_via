@@ -17,6 +17,7 @@ https://github.com/riiadesign/lily58-kiumi
 
 ## Build notes
 This keymap was built in September 2024 after upstream qmk_firmware moved all VIA keymaps to another repo.  
+The commit of qmk_firmware this was built against is https://github.com/qmk/qmk_firmware/commit/16a811604ba9c60603e224e34d06b97f740926d7 .  
 
 ```
 # Clone the new qmk_userspace_via repo
